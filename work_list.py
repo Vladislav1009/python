@@ -1,5 +1,8 @@
 import datetime
-from distutils.command.build_scripts import first_line_re 
+
+from work_list_2 import head
+ 
+
 def calc(a, b, opr):
 	if opr == '+':
 		return print(a + b)
@@ -24,7 +27,7 @@ def array(a, b, c):
 	else:
 		return 'Неверно введена команда'
 
-def func (counter, is_max, is_min):
+def func(counter, is_max, is_min):
     if is_max == False:
         counter_max = max(counter.values())
         return print(counter_max)
@@ -33,12 +36,17 @@ def func (counter, is_max, is_min):
         return print(counter_min)
     else:
         print('Вы не указали действие')
+		
+def cleanup(text, badcharp):
+    for simbl in badcharp:
+        text = text.replace(simbl, '')
+    return text
 	
 
 
 active = True 
 while active:
-	print( '0 - завершить работу\n','1 - калькулятор\n','2 - вывод даты и времени\n','3 - объеденение двух массивов\n', '4 - обработка словаря')
+	print( '0 - завершить работу\n','1 - калькулятор\n','2 - вывод даты и времени\n','3 - объеденение двух массивов\n', '4 - обработка словаря\n', '5 - работа с файлами\n', '6 - удаление символов')
 	comand = int(input('Какую команду ввести? '))
 	if comand == 0:
 		active = False
@@ -60,6 +68,7 @@ while active:
 		array_a = list(range(int(diapazon_a_1), int(diapazon_a_2) + 1))
 		array_b = list(range(int(diapazon_b_1), int(diapazon_b_2) + 1))
 		result = array(array_a, array_b, last_first)
+
 	elif comand == 4:
 		is_max, is_min = input().split()
 		counter  = {
@@ -68,6 +77,17 @@ while active:
 		'key_3': -14
 		}
 		result_func = func(counter, int(is_max), int(is_min))
+
+	elif comand == 5:
+		file_name = input('Название файла: ')
+		n = int(input('Какое кол-во строк вывест? '))
+		head(file_name, n=n)
+
+	elif comand == 6:
+		text_user = input('Введите текст, который необходимо отредактировать: ')
+		badcharp_user = input('Через запятую укажите символы, которые необходимо удалить. Например: "-,=,!" ').split(',')
+		res_cleanup = cleanup(text_user, badcharp_user)
+
 	else:
 		print('Команда введена не верно')
 print('Досвидания')
