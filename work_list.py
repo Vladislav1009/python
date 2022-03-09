@@ -41,12 +41,17 @@ def cleanup(text, badcharp):
     for simbl in badcharp:
         text = text.replace(simbl, '')
     return text
+def loadstring(fname):
+    with open(fname, mode='r', encoding='utf-8') as file:
+        file_str = file.read().replace(' ', '')
+        file_array = file_str.split('\n') # либо метод splitlines()
+        return (file_array)
 	
 
 
 active = True 
 while active:
-	print( '0 - завершить работу\n','1 - калькулятор\n','2 - вывод даты и времени\n','3 - объеденение двух массивов\n', '4 - обработка словаря\n', '5 - работа с файлами\n', '6 - удаление символов')
+	print( '0 - завершить работу\n','1 - калькулятор\n','2 - вывод даты и времени\n','3 - объеденение двух массивов\n', '4 - обработка словаря\n', '5 - работа с файлами\n', '6 - удаление символов\n', '7 - удаление пробелов в файле')
 	comand = int(input('Какую команду ввести? '))
 	if comand == 0:
 		active = False
@@ -86,7 +91,11 @@ while active:
 	elif comand == 6:
 		text_user = input('Введите текст, который необходимо отредактировать: ')
 		badcharp_user = input('Через запятую укажите символы, которые необходимо удалить. Например: "-,=,!" ').split(',')
-		res_cleanup = cleanup(text_user, badcharp_user)
+		cleanup(text_user, badcharp_user)
+
+	elif comand == 7:
+		file_user = input('Укажите имя файла в котором удалить пробелы: ')
+		loadstring(file_user)
 
 	else:
 		print('Команда введена не верно')

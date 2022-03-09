@@ -55,12 +55,28 @@ def head(fname, n=5):
 
 
    
-def cleanup(text, badcharp):
-    for simbl in badcharp:
-        text = text.replace(simbl, '')
-    return text
+# def cleanup(text, badcharp):
+#     for simbl in badcharp:
+#         text = text.replace(simbl, '')
+#     return text
 
-text = input('Введите текст, который необходимо отредактировать: ')
-badcharp = input('Через запятую укажите символы, которые необходимо удалить. Например: "-,=,!" ').split(',')
-res_cleanup = cleanup(text, badcharp)
+# text = input('Введите текст, который необходимо отредактировать: ')
+# badcharp = input('Через запятую укажите символы, которые необходимо удалить. Например: "-,=,!" ').split(',')
+# res_cleanup = cleanup(text, badcharp)  
 
+###
+###
+###
+
+# 6. Построчная очистка файла от лишних символов | <b> СРЕДНЕ </b>
+
+# Написать функцию loadstrings(fname), которая возвращает очищенный от пробелов
+# список строк файла с именем fname.
+
+# ```python
+# def loadstrings(fname):
+#     # ENTER YOUR CODE HERE
+#     return # ENTER YOUR CODE HERE
+
+# lines = loadstrings('lines.txt')
+# ```
