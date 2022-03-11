@@ -1,6 +1,8 @@
 import datetime
 
-from work_list_2 import head
+from def_python import head
+
+from def_python import wc3
  
 
 def calc(a, b, opr):
@@ -45,13 +47,13 @@ def loadstring(fname):
     with open(fname, mode='r', encoding='utf-8') as file:
         file_str = file.read().replace(' ', '')
         file_array = file_str.split('\n') # либо метод splitlines()
-        return (file_array)
+        return print(file_array)
 	
 
 
 active = True 
 while active:
-	print( '0 - завершить работу\n','1 - калькулятор\n','2 - вывод даты и времени\n','3 - объеденение двух массивов\n', '4 - обработка словаря\n', '5 - работа с файлами\n', '6 - удаление символов\n', '7 - удаление пробелов в файле')
+	print( '0 - завершить работу\n','1 - калькулятор\n','2 - вывод даты и времени\n','3 - объеденение двух массивов\n', '4 - обработка словаря\n', '5 - работа с файлами\n', '6 - удаление символов\n', '7 - удаление пробелов в файле и создание списка строк\n', '8 - поиск слова(значения) в файле\n')
 	comand = int(input('Какую команду ввести? '))
 	if comand == 0:
 		active = False
@@ -96,6 +98,12 @@ while active:
 	elif comand == 7:
 		file_user = input('Укажите имя файла в котором удалить пробелы: ')
 		loadstring(file_user)
+	
+	elif comand == 8: 
+		file_user = input('Введите название файла ')
+		word_in_file = input('Что найти в указанном файле? ')
+		wc3(file_user, word_in_file)
+		
 
 	else:
 		print('Команда введена не верно')
