@@ -34,6 +34,14 @@
 # file_user = input('Укажите имя файла в котором удалить пробелы: ')
 # loadstring(file_user)
 
+# with open('test.txt', mode='r', encoding = 'utf-8') as file:
+#         nchars = len(file.read())
+#         nlines = len(nchars.split('\n'))
+#         nwords = len(nchars.split(' ')) + 1
+
+
+        
+        
 
 # 7. Чтение всех слов из файла | <b> СЛОЖНО </b>
 
@@ -65,13 +73,13 @@
 #     return print(new_dict) # возвращаю значение словаря
 
 
-with open('lines.txt', 'r', encoding = 'utf-8') as file:
-    nlines = 0
-    nchars = 0
-    for line in file:
-        nlines += 1
-        nchars = len(line)
-    print(nlines, ';', nchars)
-    # file_array = file.split()
-    # print(file)
+# with open('lines.txt', 'r', encoding = 'utf-8') as file:
+#     nlines = 0
+#     nchars = 0
+#     for line in file:
+#         nlines += 1
+#         nchars = len(line)
+#     print(nlines, ';', nchars)
+#     # file_array = file.split()
+#     # print(file)
 
