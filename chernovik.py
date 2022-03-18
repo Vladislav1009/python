@@ -1,85 +1,26 @@
-
-# 6. Построчная очистка файла от лишних символов | <b> СРЕДНЕ </b>
-
-# Написать функцию loadstrings(fname), которая возвращает очищенный от пробелов
-# список строк файла с именем fname.
-
-# ```python
-# def loadstrings(fname):
-#     # ENTER YOUR CODE HERE
-#     return # ENTER YOUR CODE HERE
-
-# lines = loadstrings('lines.txt')
-# ```
-
-# def loadstring(fname):
-#     with open(fname, mode = 'r', encoding = 'utf-8') as file:
-#         file_list = file.readlines()
-#         file_str = ''
-#         for line in file_list:
-#             file_str += line.rstrip()
-#         file_str_1 = file_str.replace(' ', '')
-#     return print(file_str_1)
+import os
 
 
-# name_file = input('Введите имя файла: ')
-# fname = loadstring(name_file)
-
-# def loadstring(fname):
-#     with open(fname, mode='r', encoding='utf-8') as file:
-#         file_str = file.read().replace(' ', '')
-#         file_array = file_str.split('\n') # либо метод splitlines()
-#         return print(file_array)
-
-# file_user = input('Укажите имя файла в котором удалить пробелы: ')
-# loadstring(file_user)
-
-# with open('test.txt', mode='r', encoding = 'utf-8') as file:
-#         nchars = len(file.read())
-#         nlines = len(nchars.split('\n'))
-#         nwords = len(nchars.split(' ')) + 1
-
-
-        
-        
-
-# 7. Чтение всех слов из файла | <b> СЛОЖНО </b>
-
-# Написать функцию wc3(fname), которая читает файла с именем fname и возвращает 
-# словарь вида {word: count},
-# где 
-#    - word - слово из текстового файла, 
-#    - count - частота встречаемости слова word.
-
-# ```python
-# def wc3(fname):
-#     # ENTER YOUR CODE HERE 
-#     return # ENTER YOUR CODE HERE
-
-# wc3('poem.txt')
-
-
-
-
-# def wc3(fname):
-#     with open(fname, mode='r', encoding = 'utf-8') as file: #открываю файл для чтения
-#         read_file = file.read().split() # создаю переменную, которая будет читать файл одной строкой; для удобства работы преобразую строку в список строк (разделение по пробелу)
-#         value = read_file.count(word_in_file) # count() - в списке строк ищет строки "word" и считает их кол-во
-#         if word_in_file in read_file: # проверяю наличие строки в файле, если такая строка имеется, тогда переменной key присваиваю значение строки, которую искал
-#             key = word_in_file
-#         else:
-#             'Такого слова(символа, значения) нет в данном файле' # Если нужной строки не будет в файле консоль выведет текст, а не исключение
-#     new_dict = {key, value} # создаю словарь, где ключ и значение это переменные, которые нашел выше
-#     return print(new_dict) # возвращаю значение словаря
-
-
-# with open('lines.txt', 'r', encoding = 'utf-8') as file:
-#     nlines = 0
-#     nchars = 0
-#     for line in file:
-#         nlines += 1
-#         nchars = len(line)
-#     print(nlines, ';', nchars)
-#     # file_array = file.split()
-#     # print(file)
-
+path_file = 'C:\\Users\\Администратор\\Desktop\\Моё\\Программирование\\Курс\\course-python\\2. base python\\2. Работа с файлами\\folder' #Создаю переменную и присваиваю ей путь к 
+# дериктории, который будет храниться в виде строки
+file_in_catalog = os.listdir(path_file)# list['str']. file_in_catalog хранит в себе список строк, где строка - это содержимое директории 
+result_list = []
+for name_file in file_in_catalog: # создаю цикл for который будет обходить список строк переменной file_in_catalog. name_file при каждой итерации будет меняться, поочередно перебирая 
+    # название файлов хранащихся в директории
+    with open(os.path.join(path_file, name_file), mode='r') as name_files: # ???почему если я указываю кодировку, то python выдает ошибку???
+         # в данной строке происходит открытие файлов. В функцию open первым параметром передаю путь к файлу.
+        # путь к файлу получаю при помощи функции os.path.join(). Данная функция через "\" объеденяет то, что ей передали. В моем случае я передаю переменную path_file в которой хранится
+        # путь к директории, вторым параметром указываю переменную цикла for name_file, которая хранит в себе название файла, таким образом получается полный путь к файлу.
+        # была идея узнать путь к файлу, через функцию os.path.abspath(), она должна находить абсолютный путь к файлу. Но так не получилось, почему так и не разобрался.
+        name_files = name_files.read() # читаю содержимое файла. Содержимое файлов имеет тип str           
+        result_list += name_files.split() # в пустой список result_list добавляю строки из файлов преобразованные в список строк, где одна строка файла = одной строке в списке    
+word_array = [] # создаю пустой массив, в который буду добавлять слова в одном экземпляре из массива result_list
+count_array = [] # создаю пустой массив, в который буду добавлять кол-во слов содержащихся в массиве result_list
+for word in result_list: # создаю цикл for, который будет проходить по массиву result_list 
+   if word not in word_array: # создаю условие, которые будет добавлять в пустой массив(word_array) строки из массива result_list. Если слово повторяется, тогда оно повтороно не добавится
+       word_array += [word] # добавляю слово в массив
+for count_word in word_array: # создаю цикл, который будет подсчитывать слова в массиве result_list
+    count_array += [result_list.count(count_word)] # в пустой массив добавляю кол-во слов в массиве. 
+final = [tuple(word_array), tuple(count_array)] # создаю переменную, которой присваиваю массив с двумя кортежами. Массивы преобразую в кортежи при помощи tuple
+     
+    

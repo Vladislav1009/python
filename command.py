@@ -45,6 +45,7 @@ def cleanup(text, badcharp):
     for simbl in badcharp:
         text = text.replace(simbl, '')
     return text
+	
 def loadstring(fname):
     with open(fname, mode='r', encoding='utf-8') as file:
         file_str = file.read().replace(' ', '')
@@ -55,7 +56,7 @@ def loadstring(fname):
 
 active = True 
 while active:
-	print( '0 - завершить работу\n','1 - калькулятор\n','2 - вывод даты и времени\n','3 - объеденение двух массивов\n', '4 - обработка словаря\n', '5 - работа с файлами\n', '6 - удаление символов\n', '7 - удаление пробелов в файле и создание списка строк\n', '8 - поиск слова(значения) в файле\n', '9 - анализ файла (подсчет символов, слов, строк)\n')
+	print(' 0 - завершить работу\n', '1 - калькулятор\n', '2 - вывод даты и времени\n', '3 - объеденение двух массивов\n', '4 - обработка словаря\n', '5 - работа с файлами\n', '6 - удаление символов\n', '7 - удаление пробелов в файле и создание списка строк\n', '8 - подчсет повторяющихся слов в файле\n', '9 - анализ файла (подсчет символов, слов, строк)\n')
 	comand = int(input('Какую команду ввести? '))
 	if comand == 0:
 		active = False
@@ -102,9 +103,8 @@ while active:
 		loadstring(file_user)
 	
 	elif comand == 8: 
-		file_user = input('Введите название файла ')
-		word_in_file = input('Что найти в указанном файле? ')
-		wc3(file_user, word_in_file)
+		file_user = input('Введите имя файла ')
+		wc3(file_user)
 	
 	elif comand == 9:
 		file_user = input('Введите имя файла в котором необходимо произвести анализ: ')

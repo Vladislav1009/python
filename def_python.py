@@ -44,19 +44,22 @@ def head(fname, n=5):
 
 # wc3('poem.txt')
 
+# def wc3(fname): # создаю функцию, которая на вход получает файл 
+#     with open(fname, mode='r', encoding='utf-8') as file: # jоткрываю файл для чтения
+#         file = file.read().replace(',', ' ') # присваиваю переменной содержимое файла, type str. И при помощи функции replace() очищаю содержимое от запятых
+#         file = file.split() # для удобства работы содержимое файла преобразую из типа str(строка) в тип данных list(сипсок)
+#         dict_result = {} # создаю пустой словарь, который по итогу будет возвращать функция
+#         for words in file: # создаю цикл for с переменной word. Цикл работает следующим образом: переменной words присваивается значение из списка file с нулевым индексом. filt[0]
+#             if words not in dict_result: # Черех условие if проверяю наличиние перменной цикла words в словаре dict_result. Если переменной word в словаре нет, тогда выполняется
+#                 # следующие действие: 
+#                 dict_result[words] = file.count(words) #в словарь dict_result создается ключ, который равен переменной цикла words (dict_result[words]). 
+#                 # К этому ключу надо присвоить значение, которое будет равно кол-ву повторений символов в списке. Для этого использую функцию count, 
+#                 # которая позволяет посчитать кол-во конкретных символов в списке. в функцию count() передаю значение переменной, которое хранится в переменной цикла word ()
+#                 # И питон считает сколько в списке file хранится переменных с значением words
+#     return dict_result # функция возвращает словарь, который содержит key в виде символов и value в виде кол-во повторений этих символов.
 
-def wc3(fname, word_in_file):
-    with open(fname, mode='r', encoding = 'utf-8') as file: #открываю файл для чтения
-        read_file = file.read().split() # создаю переменную, которая будет читать файл одной строкой; для удобства работы преобразую строку в список строк (разделение по пробелу)
-        value = read_file.count(word_in_file) # count() - в списке строк ищет строки "word" и считает их кол-во
-        if word_in_file in read_file: # проверяю наличие строки в файле, если такая строка имеется, тогда переменной key присваиваю значение строки, которую искал
-            key = word_in_file
-        else:
-            'Такого слова(символа, значения) нет в данном файле' # Если нужной строки не будет в файле консоль выведет текст, а не исключение
-    new_dict = {key, value} # создаю словарь, где ключ и значение это переменные, которые нашел выше
-    return print(new_dict) # возвращаю значение словаря
-
-
+def wc3(fname):
+    with open(fname, mode='r', encoding='utf-8'):
 
 # 8. Анализ файла | <b> СЛОЖНО </b>
  
@@ -81,4 +84,70 @@ def wc1(fname):
         nlines = len(nchars.split('\n')) # переменную nchars содержит строку в которой хранится содержимое файла, эту строку разбиваю по '\n'. после чего создается список строк, и кол-во строк в массиве равно кол-ву строк в файле
         nwords = len(nchars.split(' ')) + 1 # считаю кол-во пробелов в файле, так как слов в файле больше чем пробелов на 1, то добавляю 1
     return print(nlines, nwords, nchars)
+
+
+
+# 9. "combine wordcounts" | <b> СЛОЖНО </b>
+
+# Написать функцию combine_wc([wc1, wc2]), которая на основе список из словарей
+# - результатов работы функции wordcount, содержащих пары (word: count), -
+# создаёт новый словарь пар (word: count), по следующему правилу: 
+
+# Если слово word присутствует только в одном из словарей wc1 или wc2,
+# то оно добавляется в результирующий словарь с соответствующим значением count. 
+ 
+# Если слово word присутствует в обоих словарях wc1 и wc2,
+# то в результирующий словарь оно добавляется частотой count,
+# равной сумме частот wc1[word] + wc2[word].
+
+# ```python
+# def combine_wc(list_dicts):
+#     return pass
+
+# words1 = {'hello': 1, 'world': 2, 'j': 1}
+# words2 = {'word': 1, 'world': 3, 'j': 1}
+
+# print(combine_wc([words1, words2]))
+
+### 1й вариант решения задачи. Но при таком решении будет не удвлетворительный ответ в случае если я передам массив с 3мя словарями. Либо надо будет прописывать 3й цикл for,
+### который будет проходить по 3му элементу массива
+
+# def combine_wc(list_dict):
+#     dict_result = {}
+#     for key, value in list_dict[0].items():
+#         if key not in dict_result:
+#             dict_result[key] = value
+    
+#     for key, value in list_dict[1].items():
+#         if key not in dict_result:
+#             dict_result[key] = value
+#         else:
+#             dict_result[key] += value
+#     return dict_result
+
+
+def combine_wc(dict_result, dict_process):
+    for key, value in dict_process.items():
+        if key not in dict_result:
+            dict_result[key] = value
+        else:
+            dict_result[key] += value
+    return dict_result
+
+def wordcount(list_dict):
+    dict_result = {}
+
+    for dict_process in list_dict:
+        dict_result = combine_wc(dict_result, dict_process)
+    
+    # dict_result = combine_wc(dict_result, list_dict[0])
+    # dict_result = combine_wc(dict_result, list_dict[1])
+    # dict_result = combine_wc(dict_result, list_dict[2])
+    return print(dict_result)
+
+words1 = {'hello': 1, 'world': 2, 'j': 1}
+words2 = {'word': 1, 'world': 3, 'j': 1}
+words3 = {'word': 56, 'world': 12}
+
+
 
