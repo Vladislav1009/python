@@ -1,0 +1,1606 @@
+{
+  "data": [
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "d8172324-8fd8-4407-9d0b-7c1fd06f62bf",
+      "date_last_update": "2021-05-07 03:30:27.938901+00:00",
+      "pay_summ": 500.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 72673330.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450773,
+      "amocrm_deal_version_date": "2021-05-07 03:30:27.938796+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "f2c7ded6-e4c7-44bc-8e93-f72ac651d70f",
+      "date_last_update": "2021-05-07 03:30:28.004403+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "kuzich244@mail.ru",
+
+      "getcourse_deal_id": 94899064.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451029,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.004379+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4637ab02-419d-4160-8da8-100b42d55192",
+      "date_last_update": "2021-05-07 03:30:28.010707+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 96379249.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450779,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.010672+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "2444792f-63bc-4027-8b2f-08bc5c11b383",
+      "date_last_update": "2021-05-07 03:30:28.016868+00:00",
+      "pay_summ": 10.0,
+      "user_email": "aleks71rsx@mail.ru",
+
+      "getcourse_deal_id": 65781177.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450785,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.016849+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "47478d2c-18e9-4e86-8b1b-5cd8b330f021",
+      "date_last_update": "2021-05-07 03:30:28.022835+00:00",
+      "pay_summ": 1000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 91126812.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450789,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.022798+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "eae13d4c-74f8-4e22-bba9-dedcd1fbfc4e",
+      "date_last_update": "2021-05-07 03:30:28.028652+00:00",
+      "pay_summ": 10.0,
+      "user_email": "test@test.ru",
+
+      "getcourse_deal_id": 96752200.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450793,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.028635+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "28585fc5-2ea1-43e0-aebc-ea5efca81089",
+      "date_last_update": "2021-05-07 03:30:28.034507+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 89132739.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450799,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.034490+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4553823b-babb-4452-b0bf-d2ca85e6cafd",
+      "date_last_update": "2021-05-07 03:30:28.040596+00:00",
+      "pay_summ": 10.0,
+      "user_email": "aleks71rsx@mail.ru",
+
+      "getcourse_deal_id": 65810757.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450875,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.040579+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "0d777340-0688-4cd2-8fc7-a57273859531",
+      "date_last_update": "2021-05-07 03:30:28.105434+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "contact@swedish-online.se",
+
+      "getcourse_deal_id": 82144466.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451167,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.105409+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "80cacc46-d498-4d15-a5b6-57886e47a15a",
+      "date_last_update": "2021-05-07 03:30:28.111582+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "mail@antiage-academy.ru",
+
+      "getcourse_deal_id": 83792508.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450815,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.111564+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "22f33235-cf80-4d27-95a5-b3699af04b17",
+      "date_last_update": "2021-05-07 03:30:28.117914+00:00",
+      "pay_summ": 250.0,
+      "user_email": "alexinfo2007@mail.ru",
+
+      "getcourse_deal_id": 83051770.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450821,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.117896+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "2be89365-fdb8-4157-b835-3328bc09b5c5",
+      "date_last_update": "2021-05-07 03:30:28.123991+00:00",
+      "pay_summ": 777.0,
+      "user_email": "test1@test.ru",
+
+      "getcourse_deal_id": 93115069.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451223,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.123973+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "ebd09191-9b42-492a-9afe-f8419b047750",
+      "date_last_update": "2021-05-07 03:30:28.129823+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 88924966.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450827,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.129806+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "9efaf8a2-59f4-484b-abdd-ea85ea8e64c7",
+      "date_last_update": "2021-05-07 03:30:28.136038+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "contact@swedish-online.se",
+
+      "getcourse_deal_id": 78148264.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450841,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.136020+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "e6847f86-47e1-4f2f-b977-86da8c7ae797",
+      "date_last_update": "2021-05-07 03:30:28.141944+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 87636566.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451227,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.141927+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "74996abf-4463-4b69-bf47-b331d0754329",
+      "date_last_update": "2021-05-07 03:30:28.207430+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "1gts007@gmail.com",
+
+      "getcourse_deal_id": 81549747.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450833,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.207391+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "1861f861-1c57-41d3-a6f0-6677f3f752a9",
+      "date_last_update": "2021-05-07 03:30:28.213622+00:00",
+      "pay_summ": 1.0,
+      "user_email": "test1@test.ru",
+
+      "getcourse_deal_id": 93883051.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450919,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.213603+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "89ae0b9a-9e68-4c21-8879-b2e53566d15f",
+      "date_last_update": "2021-05-07 03:30:28.220079+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "ando-78@mail.ru",
+
+      "getcourse_deal_id": 81766857.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451329,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.220060+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "d85901bc-f0ec-44e1-b830-b992014378b5",
+      "date_last_update": "2021-05-07 03:30:28.226265+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "Konstantin.krk.93@gmail.com",
+
+      "getcourse_deal_id": 94885939.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451045,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.226248+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "365170e5-0304-4144-87e3-7bd1a2b9c757",
+      "date_last_update": "2021-05-07 03:30:28.232024+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "contact@swedish-online.se",
+
+      "getcourse_deal_id": 94700316.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451075,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.232007+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "ba5fb5ab-237c-4bb1-930e-52906faf6d9a",
+      "date_last_update": "2021-05-07 03:30:28.237956+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 85024804.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450987,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.237937+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "7716b799-e64d-4262-a9f2-501a6ad5852b",
+      "date_last_update": "2021-05-07 03:30:28.243730+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 64580518.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451031,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.243713+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "e7f5e4c9-56dd-4f0b-be11-fd24458c0bf5",
+      "date_last_update": "2021-05-07 03:30:28.308427+00:00",
+      "pay_summ": 1000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 81449877.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450883,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.308403+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "f6dfa63c-8f26-4789-8102-ba95c3ceb307",
+      "date_last_update": "2021-05-07 03:30:28.314606+00:00",
+      "pay_summ": 0.0,
+      "user_email": "androidosinfo@mail.ru",
+
+      "getcourse_deal_id": 77571948.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451331,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.314586+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "fad69415-9e9a-49d7-adc9-85a9bbb19e9f",
+      "date_last_update": "2021-05-07 03:30:28.321146+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "vi_boyko@bk.ru",
+
+      "getcourse_deal_id": 67279517.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451095,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.321126+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "d4ae1851-3342-4998-bf64-a3c9a6b71348",
+      "date_last_update": "2021-05-07 03:30:28.327705+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 92635031.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450865,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.327686+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "1315f341-c461-4e6f-a2ba-0f728e12c580",
+      "date_last_update": "2021-05-07 03:30:28.333734+00:00",
+      "pay_summ": 10.0,
+      "user_email": "aleks71rsx@mail.ru",
+
+      "getcourse_deal_id": 65810835.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451067,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.333716+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "9b21f239-165d-4eb1-a7e9-b792f858aa7c",
+      "date_last_update": "2021-05-07 03:30:28.340071+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 81447003.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450839,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.340053+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "5ebef07d-2f7c-447d-bfd5-e8913d940c5d",
+      "date_last_update": "2021-05-07 03:30:28.405436+00:00",
+      "pay_summ": 10.0,
+      "user_email": "aleks71rsx@mail.ru",
+
+      "getcourse_deal_id": 65810693.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451211,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.405412+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "90325727-2431-4375-826f-2e1133a5e936",
+      "date_last_update": "2021-05-07 03:30:28.411711+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 96822265.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450979,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.411689+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "b987a311-f27f-4b7f-ac22-529a59d1784c",
+      "date_last_update": "2021-05-07 03:30:28.417932+00:00",
+      "pay_summ": 250.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 91883662.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450859,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.417914+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "8e3a679d-5f2b-42f3-9b87-f6c339972af3",
+      "date_last_update": "2021-05-07 03:30:28.423813+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 96515376.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450829,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.423796+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "5b5e3f95-96c0-4730-8cca-457fa5d0fff6",
+      "date_last_update": "2021-05-07 03:30:28.429666+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 67212088.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451051,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.429649+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "6fd688b4-89ef-4880-9698-336037cff2ae",
+      "date_last_update": "2021-05-07 03:30:28.435418+00:00",
+      "pay_summ": 250.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 85366111.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450991,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.435401+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "bf138b50-8e8b-48c3-b208-507423da574f",
+      "date_last_update": "2021-05-07 03:30:28.441281+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "sergey.yartsev@epsgroup.pro",
+
+      "getcourse_deal_id": 95647163.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450949,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.441265+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4f132cff-d0ca-405e-bf15-b2cf62dc23f3",
+      "date_last_update": "2021-05-07 03:30:28.505549+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 94332013.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451001,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.505526+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "7761e6e3-1aab-4d95-b410-799434af526c",
+      "date_last_update": "2021-05-07 03:30:28.511663+00:00",
+      "pay_summ": 0.0,
+      "user_email": "test1@test.ru",
+
+      "getcourse_deal_id": 96752765.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450877,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.511644+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "a5ba1deb-ec75-4511-ad3e-38a4a9b24a30",
+      "date_last_update": "2021-05-07 03:30:28.517551+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 83596350.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450881,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.517532+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "30afee03-52ec-461e-8e67-69f4140c8645",
+      "date_last_update": "2021-05-07 03:30:28.523466+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "kuzich244@mail.ru",
+
+      "getcourse_deal_id": 78897278.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450887,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.523448+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "3cf861e4-b875-4315-b1a6-d7de08fb3797",
+      "date_last_update": "2021-05-07 03:30:28.529410+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "Konstantin.krk.93@gmail.com",
+
+      "getcourse_deal_id": 88005080.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450895,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.529391+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "5fb6cfab-2906-411e-a7d1-af669644bef4",
+      "date_last_update": "2021-05-07 03:30:28.535305+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "is@dreamcatchme.ru",
+
+      "getcourse_deal_id": 90423085.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451097,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.535287+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "34ede3ed-aa0c-4bde-b1f4-0f8709ecbdeb",
+      "date_last_update": "2021-05-07 03:30:28.541179+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "nikitaboss17@gmail.com",
+
+      "getcourse_deal_id": 92965442.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450903,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.541161+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "6910335f-03d1-47ec-aa7e-b7d9e832ef0a",
+      "date_last_update": "2021-05-07 03:30:28.605622+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "Enemy1614@ya.ru",
+
+      "getcourse_deal_id": 84628925.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450909,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.605598+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "71e64068-ff61-4c5c-922f-326025972d45",
+      "date_last_update": "2021-05-07 03:30:28.612009+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "mail@antiage-academy.ru",
+
+      "getcourse_deal_id": 67213783.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450915,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.611990+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "084b8cc6-de0e-4d09-bb0d-0184ccdf10bf",
+      "date_last_update": "2021-05-07 03:30:28.617921+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 74767943.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450923,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.617902+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4786f9e2-881f-49b3-a358-a1d54ae995b8",
+      "date_last_update": "2021-05-07 03:30:28.623854+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "evgeniya.d@karneeva.online",
+
+      "getcourse_deal_id": 87597721.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451277,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.623836+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "fba0435e-b75e-4f52-836d-2f75d8a758ef",
+      "date_last_update": "2021-05-07 03:30:28.629706+00:00",
+      "pay_summ": 500.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 81961338.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450939,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.629688+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "6973896d-9440-432c-bb04-540f7d876da3",
+      "date_last_update": "2021-05-07 03:30:28.635890+00:00",
+      "pay_summ": 1.0,
+      "user_email": "test@test.ru",
+
+      "getcourse_deal_id": 96157303.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450931,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.635872+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "483a340f-c15b-4f76-8605-1a84ac1075df",
+      "date_last_update": "2021-05-07 03:30:28.702712+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "contact@trueartschool.com",
+
+      "getcourse_deal_id": 93066397.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451275,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.702678+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "3d480ef0-d243-4ed7-8509-40c2aaa9c75b",
+      "date_last_update": "2021-05-07 03:30:28.709723+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 91225617.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450961,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.709702+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "72fa8a99-5b73-47c3-a31f-58332e2419fb",
+      "date_last_update": "2021-05-07 03:30:28.716014+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "1gts007@gmail.com",
+
+      "getcourse_deal_id": 90242806.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451209,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.715995+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "d4c35448-31b3-4bd2-bc39-5b516052c31e",
+      "date_last_update": "2021-05-07 03:30:28.721878+00:00",
+      "pay_summ": 777.0,
+      "user_email": "test1@test.ru",
+
+      "getcourse_deal_id": 93632697.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451017,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.721860+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "46b3dcf7-b8f0-4bd4-a3f5-c860c8c59278",
+      "date_last_update": "2021-05-07 03:30:28.728161+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 77421923.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450937,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.728142+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "b01a4070-93db-4bec-b07b-4bfb57b3a823",
+      "date_last_update": "2021-05-07 03:30:28.734403+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 83596352.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450943,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.734384+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "a309e3a5-367f-4cc6-99ca-ccea710b308f",
+      "date_last_update": "2021-05-07 03:30:28.740348+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "Konstantin.krk.93@gmail.com",
+
+      "getcourse_deal_id": 65480137.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451027,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.740330+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "5b1df922-17ea-4e5e-81a8-0296bb48a03c",
+      "date_last_update": "2021-05-07 03:30:28.804198+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "ando-78@mail.ru",
+
+      "getcourse_deal_id": 81766858.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451283,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.804174+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "ee7e5f9b-4664-4108-948d-c9bcaa6d2650",
+      "date_last_update": "2021-05-07 03:30:28.811588+00:00",
+      "pay_summ": 99000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 77810414.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450955,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.811566+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "8ebfe235-2284-4141-b3ca-848226f8602c",
+      "date_last_update": "2021-05-07 03:30:28.818211+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 80086293.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450967,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.818191+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "93c2b182-3482-458c-807d-1fa2e988598a",
+      "date_last_update": "2021-05-07 03:30:28.825288+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "is@dreamcatchme.ru",
+
+      "getcourse_deal_id": 67484776.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450973,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.825264+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "c09bd5fc-ecd6-40e1-b246-1a929bea454f",
+      "date_last_update": "2021-05-07 03:30:28.831432+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 79007920.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450993,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.831413+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "31fb8e59-dd82-452c-ba60-9c84eb75d11d",
+      "date_last_update": "2021-05-07 03:30:28.837546+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "ando-78@mail.ru",
+
+      "getcourse_deal_id": 75693789.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450999,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.837527+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "305ab3ba-5cdc-4126-b37a-02aaa44a967a",
+      "date_last_update": "2021-05-07 03:30:28.903814+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 89215587.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451147,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.903777+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "ac42881c-40ae-4562-9801-6ec7a5d2c091",
+      "date_last_update": "2021-05-07 03:30:28.910351+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "oleg.biktashev@shkoladoma.org",
+
+      "getcourse_deal_id": 91225616.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451005,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.910331+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "2ca3cfc6-d4e1-44fe-ad4e-15b02356b349",
+      "date_last_update": "2021-05-07 03:30:28.916394+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "is@dreamcatchme.ru",
+
+      "getcourse_deal_id": 73600710.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451011,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.916375+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "12bac531-56e9-4835-b203-ef5112b4d237",
+      "date_last_update": "2021-05-07 03:30:28.922324+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "alexinfo2007@mail.ru",
+
+      "getcourse_deal_id": 87074837.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451339,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.922307+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "432333a3-b256-43a7-befc-a9a917bec7ff",
+      "date_last_update": "2021-05-07 03:30:28.928348+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 96379241.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451019,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.928330+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "b526c0b5-9896-4633-bb0c-a4d2fe0681e4",
+      "date_last_update": "2021-05-07 03:30:28.934361+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "contact@swedish-online.se",
+
+      "getcourse_deal_id": 70798993.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451025,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.934344+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "caa84659-0283-4e9b-aa89-7eb7e904778e",
+      "date_last_update": "2021-05-07 03:30:28.940594+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 94220711.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451039,
+      "amocrm_deal_version_date": "2021-05-07 03:30:28.940577+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "48ea3e88-b94d-41e1-897e-86d2981a87c9",
+      "date_last_update": "2021-05-07 03:30:29.005932+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "contact@swedish-online.se",
+
+      "getcourse_deal_id": 77421925.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451231,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.005906+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "46327838-eb00-4f9c-8cd2-40c994d801fc",
+      "date_last_update": "2021-05-07 03:30:29.012232+00:00",
+      "pay_summ": 200.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 80882354.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451299,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.012211+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "05f2c1c0-7ce6-4e6f-8db5-125236203acf",
+      "date_last_update": "2021-05-07 03:30:29.018252+00:00",
+      "pay_summ": 500.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 72676156.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450953,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.018234+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "03863779-4df6-4a2e-8e99-e50ca8a6bb9e",
+      "date_last_update": "2021-05-07 03:30:29.024200+00:00",
+      "pay_summ": 500.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 94994437.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451255,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.024181+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "e42e9a0d-0160-4fc9-b3f4-1004b99640e3",
+      "date_last_update": "2021-05-07 03:30:29.030141+00:00",
+      "pay_summ": 500.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 88196243.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450813,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.030123+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "117b452f-d4b9-44ed-9b65-3a06efa844b8",
+      "date_last_update": "2021-05-07 03:30:29.036033+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "kuzich244@mail.ru",
+
+      "getcourse_deal_id": 91450158.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451099,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.036015+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "1f701f52-6d01-4d75-b8a4-cb63b3128485",
+      "date_last_update": "2021-05-07 03:30:29.041929+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "Pokerscool@inbox.ru",
+
+      "getcourse_deal_id": 69867187.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451063,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.041910+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "a09939f6-9630-4b6e-9d1d-4b6916a83225",
+      "date_last_update": "2021-05-07 03:30:29.106731+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 80691425.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451069,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.106705+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "24ed07a6-53a0-4237-81bf-b513c84771aa",
+      "date_last_update": "2021-05-07 03:30:29.113093+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "Konstantin.krk.93@gmail.com",
+
+      "getcourse_deal_id": 81962872.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450843,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.113074+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "79d58b5e-a703-4be5-a172-3c514a570da4",
+      "date_last_update": "2021-05-07 03:30:29.119528+00:00",
+      "pay_summ": 250.0,
+      "user_email": "nikitaboss17@gmail.com",
+
+      "getcourse_deal_id": 93634585.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451295,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.119511+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "f8ce22d5-8663-4051-9a95-e25329e01216",
+      "date_last_update": "2021-05-07 03:30:29.125692+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 75491848.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451219,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.125675+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "39505670-c857-4e87-a433-b36f28090212",
+      "date_last_update": "2021-05-07 03:30:29.131724+00:00",
+      "pay_summ": 500.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 75693705.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451049,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.131706+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "7ae5f85a-7965-4cce-8b65-a17e1746854b",
+      "date_last_update": "2021-05-07 03:30:29.137739+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "sonya.tk2016@gmail.com",
+
+      "getcourse_deal_id": 68967401.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451077,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.137722+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "930b9052-3169-4aff-b5ec-1eb91d79ebc0",
+      "date_last_update": "2021-05-07 03:30:29.143720+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "ando-78@mail.ru",
+
+      "getcourse_deal_id": 94220715.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451089,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.143703+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4def6a79-d740-4981-80f5-2692d9c515e6",
+      "date_last_update": "2021-05-07 03:30:29.207963+00:00",
+      "pay_summ": 1500.0,
+      "user_email": "oleg@posokhov.guru",
+
+      "getcourse_deal_id": 92046026.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450771,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.207939+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "2ec24e58-6bd6-4414-ab8d-377919fe0ba4",
+      "date_last_update": "2021-05-07 03:30:29.214266+00:00",
+      "pay_summ": 0.0,
+      "user_email": "landing-consultation@yopmail.com",
+
+      "getcourse_deal_id": 72672693.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451105,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.214246+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "2a88647e-5a48-4067-ac63-93f90ee19e97",
+      "date_last_update": "2021-05-07 03:30:29.220346+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "oleg.biktashev@shkoladoma.org",
+
+      "getcourse_deal_id": 84919590.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451111,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.220327+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "eaf3e1a6-b20f-4e18-a34d-91b52b3d9377",
+      "date_last_update": "2021-05-07 03:30:29.226366+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "is@dreamcatchme.ru",
+
+      "getcourse_deal_id": 68762223.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451119,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.226349+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4a58aa03-7b3d-4918-b91a-b050f82c02fc",
+      "date_last_update": "2021-05-07 03:30:29.232350+00:00",
+      "pay_summ": 1500.0,
+      "user_email": "oleg@posokhov.guru",
+
+      "getcourse_deal_id": 73984060.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451021,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.232332+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "220483d8-10da-4b6e-a4ac-23ed85c41c54",
+      "date_last_update": "2021-05-07 03:30:29.238219+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "ando-78@mail.ru",
+
+      "getcourse_deal_id": 70535154.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451189,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.238201+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "a5b4d488-20a3-401b-88e9-d643a470c410",
+      "date_last_update": "2021-05-07 03:30:29.244327+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "evgeniya.d@karneeva.online",
+
+      "getcourse_deal_id": 82531763.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451125,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.244309+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "014160c7-3307-46cf-a50b-0c3999df4b41",
+      "date_last_update": "2021-05-07 03:30:29.309157+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "mail@antiage-academy.ru",
+
+      "getcourse_deal_id": 90031477.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451035,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.309134+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "8d5ddc38-27d9-4e5c-ba9e-f1c3c1f353a8",
+      "date_last_update": "2021-05-07 03:30:29.315354+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "is@dreamcatchme.ru",
+
+      "getcourse_deal_id": 72320417.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451133,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.315335+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "3f5e0357-a02b-4488-95d8-cf03535bd76a",
+      "date_last_update": "2021-05-07 03:30:29.321329+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 96379248.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451139,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.321311+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4e660dac-e2b8-4b76-aea8-e68272f221fd",
+      "date_last_update": "2021-05-07 03:30:29.327277+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "1gts007@gmail.com",
+
+      "getcourse_deal_id": 74667927.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451151,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.327259+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "72f2e77a-d219-428a-bf15-08993e2c3d37",
+      "date_last_update": "2021-05-07 03:30:29.333158+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "contact@trueartschool.com",
+
+      "getcourse_deal_id": 86733578.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451157,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.333141+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "8101ee0c-127d-4271-8e68-06d76744fb01",
+      "date_last_update": "2021-05-07 03:30:29.338997+00:00",
+      "pay_summ": 3000.0,
+      "user_email": "Enemy1614@ya.ru",
+
+      "getcourse_deal_id": 82887981.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451163,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.338980+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "f891c244-4915-4ef6-9834-4bd5c999795f",
+      "date_last_update": "2021-05-07 03:30:29.405448+00:00",
+      "pay_summ": 6000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 94554635.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451177,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.405422+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "cd15bd3d-9424-4ced-b5b5-fb9b7afc6a16",
+      "date_last_update": "2021-05-07 03:30:29.412212+00:00",
+      "pay_summ": 9900.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 65921221.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451183,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.412190+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "9800ce3e-1cac-4f88-9e91-41067f374ed2",
+      "date_last_update": "2021-05-07 03:30:29.418692+00:00",
+      "pay_summ": 500.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 73064017.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451243,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.418671+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "65846969-26e0-46f9-9a4d-353b52d43807",
+      "date_last_update": "2021-05-07 03:30:29.425016+00:00",
+      "pay_summ": 2000.0,
+      "user_email": "google_mail@gmail.com",
+
+      "getcourse_deal_id": 93423342.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1451195,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.424996+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    },
+    {
+      "wow_project_id": 2,
+      "wow_deals_id": "4e5256f3-3d76-4640-b5bc-3211ddf2d19d",
+      "date_last_update": "2021-05-07 03:30:29.431070+00:00",
+      "pay_summ": 14900.0,
+      "user_email": "yandex_main@yandex.ru",
+
+      "getcourse_deal_id": 85024803.0,
+      "getcourse_deal_version_date": "2021-05-07 02:54:49.663346+00:00",
+      "amocrm_deal_id": 1450801,
+      "amocrm_deal_version_date": "2021-05-07 03:30:29.431051+00:00",
+      "status_last_update": true,
+      "sync_type": "getcourse-amocrm",
+      "update_on": "getcourse"
+    }
+  ],
+  "dataset": "test",
+  "wow_project_id": 2,
+  "project_name": "test",
+  "sync_type": "getcourse-amocrm",
+  "init": false,
+  "additional_fields": {
+    "merger_status": {
+      "waiting_for_return": {
+        "pipeline_id": 4237513,
+        "id": 39731008,
+        "name": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435"
+      },
+      "pending": {
+        "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+        "pipeline_id": 4237513,
+        "id": 39730999
+      },
+      "part_payed": {
+        "pipeline_id": 4237513,
+        "id": 39731005,
+        "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b"
+      },
+      "cancelled": {
+        "id": 143,
+        "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+        "pipeline_id": 4237513
+      },
+      "not_confirmed": {
+        "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+        "pipeline_id": 4237513,
+        "id": 39730999
+      },
+      "payed": {
+        "id": 142,
+        "pipeline_id": 4237513,
+        "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e"
+      },
+      "payment_waiting": {
+        "id": 39731011,
+        "name": "\u0421\u043e\u0433\u043b\u0430\u0441\u043e\u0432\u0430\u043d\u0438\u0435 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430",
+        "pipeline_id": 4237513
+      },
+      "new": {
+        "pipeline_id": 4237513,
+        "id": 39731002,
+        "name": "\u041f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442"
+      },
+      "false": {
+        "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+        "pipeline_id": 4237513,
+        "id": 143
+      },
+      "in_work": {
+        "pipeline_id": 4237513,
+        "id": 39730999,
+        "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435"
+      }
+    },
+    "amocrm_status": [
+      {
+        "id": 39730999,
+        "name": "\u041d\u0435\u0440\u0430\u0437\u043e\u0431\u0440\u0430\u043d\u043d\u043e\u0435",
+        "pipeline_id": 4237513
+      },
+      {
+        "id": 39731002,
+        "name": "\u041f\u0435\u0440\u0432\u0438\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0442\u0430\u043a\u0442",
+        "pipeline_id": 4237513
+      },
+      {
+        "id": 39731005,
+        "name": "\u041f\u0435\u0440\u0435\u0433\u043e\u0432\u043e\u0440\u044b",
+        "pipeline_id": 4237513
+      },
+      {
+        "id": 39731008,
+        "name": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u044e\u0442 \u0440\u0435\u0448\u0435\u043d\u0438\u0435",
+        "pipeline_id": 4237513
+      },
+      {
+        "id": 39731011,
+        "name": "\u0421\u043e\u0433\u043b\u0430\u0441\u043e\u0432\u0430\u043d\u0438\u0435 \u0434\u043e\u0433\u043e\u0432\u043e\u0440\u0430",
+        "pipeline_id": 4237513
+      },
+      {
+        "id": 142,
+        "name": "\u0423\u0441\u043f\u0435\u0448\u043d\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+        "pipeline_id": 4237513
+      },
+      {
+        "id": 143,
+        "name": "\u0417\u0430\u043a\u0440\u044b\u0442\u043e \u0438 \u043d\u0435 \u0440\u0435\u0430\u043b\u0438\u0437\u043e\u0432\u0430\u043d\u043e",
+        "pipeline_id": 4237513
+      }
+    ]
+  },
+  "data_info": {
+    "total_items": 254,
+    "package_items": 100,
+    "number_package": 1,
+    "batch_size": 100
+  }
+}
