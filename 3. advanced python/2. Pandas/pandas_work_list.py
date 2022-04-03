@@ -46,20 +46,26 @@ import pandas as pd
 import numpy as np
 import json 
 
-
-with open('data_df.json', mode='r', encoding='utf-8') as file_json:
-    json_python = json.load(file_json)
-file_df = pd.DataFrame(json_python['data'])
+def read_json_to_df(name_file, columns: list[str]=[]):
+    with open(name_file, mode='r', encoding='utf-8') as file_json:
+        json_python = json.load(file_json)
+    dict_result = {}
+    for name_key in columns:
+        dict_result = 
+    return pd.DataFrame(json_python[columns])
 
 # Вывести первые 10 элементов в консоль и предоставить фото результата
-first_ten = file_df[:10] 
-print(first_ten)
+
+file_df = file_df.drop(file_df.index[99])
+print(file_df)
 # ////////////////////////////////////////////////////////////////////////////
 
 # Получить медиану, максимальную и минимальную сумму по стоимости заказа
-sort_summ = sorted(file_df['pay_summ'])
-len_summ = len(sort_summ)//2
-median_summ = sort_summ[len_summ]
+# sort_summ = sorted(file_df['pay_summ'])
+# len_summ = len(sort_summ)//2
+# median_summ = sort_summ[len_summ]
+# median_summ_1 = sorted(file_df['pay_summ'])[]
+median_summ = file_df['pay_summ'].median()
 max_summ = file_df['pay_summ'].max()
 min_summ = file_df['pay_summ'].min()
 print('Максимальная сумма: ',max_summ)
@@ -70,4 +76,11 @@ print('Медиана: ',median_summ)
 
 # Вывести все строки, у которых почта пользователя равна "yandex_main@yandex.ru"
 
-email = 'yandex_main@yandex.ru'
+print(file_df[file_df['user_email'] == 'yandex_main@yandex.ru'])
+
+# print(file_df['user_email'] == 'yandex_main@yandex.ru')
+
+# ////////////////////////////////////////////////////////////////////////////
+with open('data_df.json', mode='r', encoding='utf-8') as file_json:
+    json_python = json.load(file_json)
+file_df = pd.DataFrame(json_python['data'])

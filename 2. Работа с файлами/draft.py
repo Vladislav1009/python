@@ -31,23 +31,77 @@ import os
 # for sorted_dict in sorted(dict_result.items(), key=lambda key_value: (key_value[1], key_value[0]), reverse = True): # тогда в обратной последовательности 
 #     # сортируется весь словарь, мне надо только ключи
 #     final += [sorted_dict]
-# # print(final)   
-catalog_task = 'C:\\Users\\Владислав Игоревич\\Desktop\\Python\\course-python\\2. base python\\2. Работа с файлами\\task_condition' # Путь к файлам, 
-# в которых хранится доп. задание
-list_task = os.listdir(catalog_task) # заношу в список название файлов из директории
-delete_symbols = [] # переменная in_file хранит в себе все, что необходимо удалить из текста.
-for str_file in list_task:
-    with open(os.path.join(catalog_task, str_file), mode='r', encoding='utf-8') as stroki_file:
-        stroki_file = stroki_file.read()
-        delete_symbols += stroki_file.split()
+# # print(final)   /
 
-catalog_file = 'C:\\Users\\Владислав Игоревич\\Desktop\\Python\\course-python\\2. base python\\2. Работа с файлами\\folder' 
-file_in_catalog = os.listdir(catalog_file)
-for files in file_in_catalog:
-    with open(os.path.join(catalog_file, files), mode='r', encoding='utf-8') as file_in_folder:
-        file_in_folder = file_in_folder.read()
-        for symble in delete_symbols:
-            if sym
+# catalog_file = 'C:\\Users\\Владислав Игоревич\\Desktop\\Python\\course-python\\2. base python\\2. Работа с файлами\\folder' 
+# file_in_catalog = os.listdir(catalog_file)
+# for files in file_in_catalog:
+#     with open(os.path.join(catalog_file, files), mode='r', encoding='utf-8') as file_in_folder:
+#         file_in_folder = file_in_folder.read()
+#         for symble in delete_symbols:
+#             if sym
 # теперь мне надо соеденить два кода, у меня есть два списка: в котором хранится содержимое папок, где надо посчитать слова и список, где хранится от
 # чего надо очсистить файл. Прежде чем дректорию с файлайми (где надо посчитать слова) перевести в список, надо при помощи цикла for и функции split
 # очистить ее от лишних символов, слов. По сути надо еще превести все к одному регистру. После этого я смогу все посчитать.
+
+def top_words(folder, n=5):
+    list_folder = os.listdir(folder)
+    badchars_files_names = {}
+    key_dict = ('arg', 'badchars', 'stopwords')
+    for name_file in list_folder:
+        for key in key_dict:
+            if name_file not in badchars_files_names:
+                badchars_files_names[key] = [name_file]
+    return print(badchars_files_names)           
+    # delete_symbols = {} 
+
+    # for name_arg, path_file in badchars_files_names.items():
+    #     with open(path_file, mode='r', encoding='utf-8') as file:
+    #         file_string = file.read()
+    #         delete_symbols[name_arg] = file_string.split()
+
+
+    # catalog_file = './beatles'
+    # file_in_catalog = os.listdir(catalog_file)
+    # music_text_dict: dict[str, str] = {}
+
+    # for file in file_in_catalog:
+    #     with open(os.path.join(catalog_file, file), mode='r', encoding='utf-8') as file_in_folder:
+    #         music_text_dict[file] = file_in_folder.read()
+
+
+    # for name_file, music_text in music_text_dict.items():
+    #     processed_music_text = music_text
+        
+    #     arg_list = delete_symbols['arg'] 
+    #     for arg in arg_list:
+    #         processed_music_text = processed_music_text.replace(arg, '')
+            
+    #     badchars_list = delete_symbols['badchars']
+    #     for badchar in badchars_list:
+    #         processed_music_text = processed_music_text.replace(badchar, '')
+            
+    #     processed_music_text_list = processed_music_text.split()
+    #     stopwords_list = delete_symbols['stopwords'] 
+    #     for stopword in stopwords_list:
+    #         if stopword in processed_music_text_list:
+    #             processed_music_text_list.remove(stopword)
+            
+    #     music_text_dict[name_file] = processed_music_text
+            
+    # word_count = {}
+    # for word_dict in music_text_dict.values():
+    #     list_word_dict = word_dict.split()
+    #     for word_str in list_word_dict:
+    #         if word_str not in word_count:
+    #             word_count[word_str] = 1
+    #         else:
+    #             word_count[word_str] += 1
+    # list_dict = list(word_count.items())
+    # list_dict = sorted(list_dict, key=lambda x: x[0], reverse=False)
+    # list_dict = sorted(list_dict, key=lambda x: x[1], reverse=True)
+    # return print(list_dict[:n+1:])
+
+    
+    
+top_words('task_condition')
