@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+from typing import List
 from bs4 import BeautifulSoup, Tag
 
 url = 'https://scrapingclub.com/exercise/list_basic/'
@@ -11,7 +12,7 @@ information_products = {
     'Price product': []
 }
 
-tag_card: Tag = request_BeautifulSoup.find_all('div', class_ = 'card') 
+tag_card: List[Tag] = request_BeautifulSoup.find_all('div', class_ = 'card') 
 
 for info_product in tag_card:
     name_product: Tag = info_product.find('h4', class_ = 'card-title') 
